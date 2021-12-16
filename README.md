@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aymon Martin
+- 👀 I’m interested in automate task
+- 🌱 I’m currently learning Python
+- 📫 How to reach me send mail to aymon877@gmail.com
